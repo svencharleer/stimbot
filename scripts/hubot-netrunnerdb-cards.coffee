@@ -6,7 +6,7 @@
 #   {{card name}} - fetch the card image for a card
 #   !jank (corp|runner) - Choose an identity and three random cards. Break the meta!
 #   !find (e|t|s|f|x|p|o|n|d|c|a|i|u|y|g|v)(:|=|>|<|!)<query> - find cards searching by attributes
-#   !parameters x – text a – flavor text e – set c – cycle t – type f – faction s – subtype d – side i – illustrator o – cost g – advancement cost m – memory usage n – influence (faction cost) p – strength v – agenda points h – trash cost r – release date u – unique
+#   parameters x – text a – flavor text e – set c – cycle t – type f – faction s – subtype d – side i – illustrator o – cost g – advancement cost m – memory usage n – influence (faction cost) p – strength v – agenda points h – trash cost r – release date u – unique
 
 Fuse = require 'fuse.js'
 
