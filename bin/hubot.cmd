@@ -1,3 +1,3 @@
 @echo off
 
-npm install && node_modules\.bin\hubot.cmd --name "stimbot" %* 
+npm install && node_modules\.bin\hubot.cmd --name "rachael" %* 
