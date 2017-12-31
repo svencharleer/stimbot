@@ -1,1 +1,1 @@
-web: bin/hubot -a slack --name "rachael"
+web: bin/hubot -a slack --name "joi"
